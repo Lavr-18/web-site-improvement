@@ -18,4 +18,3 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=github)
 
-## 📂 Структура проекта
